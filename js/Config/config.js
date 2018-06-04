@@ -1,0 +1,1 @@
+export const Band_Color="#ff0000"

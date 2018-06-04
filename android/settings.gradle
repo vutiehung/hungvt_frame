@@ -1,0 +1,3 @@
+rootProject.name = 'hungvt_frame'
+
+include ':app'
